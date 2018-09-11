@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        applicationId "com.dpot.radio"
+        minSdkVersion 13
+        targetSdkVersion 14
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:21.0.3'
+    compile files('libs/aacdecoder-android-0.8.jar')
+    compile files('libs/OneSignalSDK.jar')
+}

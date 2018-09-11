@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_color" type="color">#FFFFFF</item>
+    <item name="track_title_start" type="color">#FFFFFF</item>
+    <declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="border_overlay"/></declare-styleable>
+    <dimen name="dialog_text">20dp</dimen>
+    <dimen name="dialog_title">30dp</dimen>
+    <dimen name="radio_bufferindicator_width">14dp</dimen>
+    <dimen name="radio_list_isplay_margin">7dp</dimen>
+    <dimen name="radio_list_isplay_size">27dp</dimen>
+    <dimen name="radio_list_margin">20dp</dimen>
+    <dimen name="radio_list_name_and_from">18dp</dimen>
+    <dimen name="radio_main_from">24dp</dimen>
+    <dimen name="radio_main_name">1dp</dimen>
+    <dimen name="radio_title">20dp</dimen>
+    <string name="about_text">
+
+&lt;html>
+ &lt;head>
+ &lt;style type="text/css">
+@font-face {
+    font-family: font;
+    src: url("file:///android_asset/fonts/font.otf")
+    font-size: 12px;
+}
+body {
+    font-family: font;
+    font-size: medium;
+    text-align: justify;
+}
+&lt;/style>
+ &lt;/head>
+ &lt;body style="text-align:justify;">
+        Móveis notáveis combinam com música boa. Por isso, a DPOT – marca que reúne a maior coleção de mobiliário moderno e contemporâneo de autor do país – criou uma rádio digital com programação exclusiva, 100% dedicada à música e à cultura brasileiras, 24 horas por dia, 7 dias por semana.
+    &lt;/body>
+    &lt;/html>
+    
+    </string>
+    <string name="app_name">Radio Dpot</string>
+    <string name="autostart_true_or_false">false</string>
+    <string name="connection_error_dialog_button">Retry</string>
+    <string name="connection_error_dialog_message">No Internet connection. Please check your connection and try again.</string>
+    <string name="connection_error_dialog_title">Connection Error</string>
+    <string name="contact_text">
+
+&lt;html>
+ &lt;head>
+ &lt;style type="text/css">
+@font-face {
+    font-family: font;
+    src: url("file:///android_asset/fonts/font.otf")
+    font-size: 12px;
+}
+&lt;/style>
+ &lt;/head>
+ &lt;body style="text-align:justify;">
+        &lt;b>DPOT Gabriel&lt;/b>
+        &lt;br>&lt;br>
+		Al Gabriel Monteiro da Silva, 479&lt;br>
+		01441-000 Jardim Paulistano | São Paulo - SP &lt;br>
+		T.:+55 11 3082-9513  |  3063-0113&lt;br>
+		dpotgabriel@dpot.com.br&lt;br>&lt;br>
+		
+		&lt;b>DPOT D&amp;D&lt;/b>
+        &lt;br>&lt;br>
+		Shopping D&amp;D, piso térreo&lt;br>
+		Avenida das Nações Unidas, 12.551 - Loja 232 &lt;br>
+		04578-903 Brooklin Novo | São Paulo - SP&lt;br>
+		t.: +55 11 3043-9159  |  3043-9087&lt;br>
+		dpotded@dpot.com.br&lt;br>
+		 &lt;/body>
+    &lt;/html>
+        
+    
+    </string>
+    <string name="radio_location">Radio Dpot</string>
+    <string name="radio_name">Radio Dpot</string>
+    <string name="radio_offline">The radio is offline.</string>
+    <string name="radio_url">http://14123.live.streamtheworld.com/SAM10AAC177_SC</string>
+    <string name="resume">Tap to resume.</string>
+    <string name="share_url">https://play.google.com/store/apps/details?id=com.dpot.radio</string>
+    <string name="title_1">Radio Dpot</string>
+    <string name="title_2">Website</string>
+    <string name="web_url">http://www.fiverr.com</string>
+    <string name="welcome_small">Song title - Artist name</string>
+    <style name="AppTheme" parent="android:Theme.DeviceDefault.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

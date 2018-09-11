@@ -1,0 +1,38 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    tools:context="com.codecanyon.app.MainActivity$PlaceholderFragment">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+<!--         <include
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:layout_weight="54.58"
+            layout="@layout/main_front" /> -->
+
+        <include
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:layout_weight="308.54"
+            layout="@layout/viewpager_layout" />
+
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="0px"
+            android:layout_weight="105.56"
+            layout="@layout/main_last" />
+
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ANTONIOJOAOSchwartz\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\ANTONIOJOAOSchwartz\Documents\Android\backup\Radio Dpot\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_2bd84bd52c9b8bf8b60363a33630cd9ca8ec7ade.jar" />
+    </item>
+    <item
+        jar="C:\Users\ANTONIOJOAOSchwartz\Documents\Android\backup\Radio Dpot\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\ANTONIOJOAOSchwartz\Documents\Android\backup\Radio Dpot\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_c6dca42d5b49078556aa30d7efdb05c1b92d7108.jar" />
+    </item>
+    <item
+        jar="C:\Users\ANTONIOJOAOSchwartz\Documents\Android\backup\Radio Dpot\app\libs\OneSignalSDK.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="753e3c78afd636a353f82a0977ab1498a64da93b">
+        <dex dex="C:\Users\ANTONIOJOAOSchwartz\Documents\Android\backup\Radio Dpot\app\build\intermediates\pre-dexed\debug\OneSignalSDK_278d9473457594a45438b188fbc93c6412acd95b.jar" />
+    </item>
+    <item
+        jar="C:\Users\ANTONIOJOAOSchwartz\Documents\Android\backup\Radio Dpot\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\ANTONIOJOAOSchwartz\Documents\Android\backup\Radio Dpot\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_162f0977900a2fcd37a55d2bf7380fadb2990bf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\ANTONIOJOAOSchwartz\Documents\Android\backup\Radio Dpot\app\libs\aacdecoder-android-0.8.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43fc2f0e7556b0a743cece06945b9eff5c241499">
+        <dex dex="C:\Users\ANTONIOJOAOSchwartz\Documents\Android\backup\Radio Dpot\app\build\intermediates\pre-dexed\debug\aacdecoder-android-0.8_a4cca5beffe4f357f3358e257fca1d07cc8327b6.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,377 @@
+[
+    {
+        "outputFile": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 62,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 42,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 43,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 58,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 54,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endColumn": 53,
+                    "endOffset": 625
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 630,
+                    "endColumn": 48,
+                    "endOffset": 674
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 679,
+                    "endColumn": 55,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 46,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 45,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endColumn": 42,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endLine": 37,
+                    "endColumn": 13,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1549,
+                    "endColumn": 47,
+                    "endOffset": 1592
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1597,
+                    "endColumn": 57,
+                    "endOffset": 1650
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1655,
+                    "endColumn": 64,
+                    "endOffset": 1715
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1720,
+                    "endColumn": 127,
+                    "endOffset": 1843
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1848,
+                    "endColumn": 74,
+                    "endOffset": 1918
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1923,
+                    "endLine": 74,
+                    "endColumn": 13,
+                    "endOffset": 2742
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2747,
+                    "endColumn": 53,
+                    "endOffset": 2796
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2801,
+                    "endColumn": 49,
+                    "endOffset": 2846
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2851,
+                    "endColumn": 63,
+                    "endOffset": 2910
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 2915,
+                    "endColumn": 89,
+                    "endOffset": 3000
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 89,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3005,
+                    "endColumn": 49,
+                    "endOffset": 3050
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3055,
+                    "endColumn": 98,
+                    "endOffset": 3149
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3154,
+                    "endColumn": 46,
+                    "endOffset": 3196
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3201,
+                    "endColumn": 43,
+                    "endOffset": 3240
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3245,
+                    "endColumn": 57,
+                    "endOffset": 3298
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3303,
+                    "endColumn": 66,
+                    "endOffset": 3365
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3370,
+                    "endLine": 87,
+                    "endColumn": 12,
+                    "endOffset": 3499
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

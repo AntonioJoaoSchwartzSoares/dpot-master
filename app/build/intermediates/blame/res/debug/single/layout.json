@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notificationview.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\notificationview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\without_internet.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\without_internet.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_radios.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\fragment_radios.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_last.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\main_last.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_cover.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\main_cover.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_layout.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\viewpager_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_front.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\main_front.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_main.xml",
+        "source": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\layout\\main_main.xml"
+    }
+]

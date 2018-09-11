@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Radio Dpot</string>
+    <string name="title_1">Radio Dpot</string>
+    <string name="title_2">Website</string>
+    <string name="connection_error_dialog_title">Connection Error</string>
+    <string name="radio_offline">The radio is offline.</string>
+    <string name="resume">Tap to resume.</string>
+    <string name="connection_error_dialog_message">No Internet connection. Please check your connection and try again.</string>
+    <string name="connection_error_dialog_button">Retry</string>
+    <string name="welcome_small">Song title - Artist name</string>
+    <string name="radio_name">Radio Dpot</string>
+    <string name="radio_location">Radio Dpot</string>
+    <string name="radio_url">http://14123.live.streamtheworld.com/SAM10AAC177_SC</string>
+    <!-- string name="radio_url">http://8653.live.streamtheworld.com:80/SAM10AAC177_SC</string  -->
+    <string name="web_url">http://www.fiverr.com</string>
+    <string name="share_url">https://play.google.com/store/apps/details?id=com.dpot.radio</string>
+    <!-- About text, you can use basic html, stay between [ and ] -->
+    <string name="about_text">
+<![CDATA[
+<html>
+ <head>
+ <style type="text/css">
+@font-face {
+    font-family: font;
+    src: url("file:///android_asset/fonts/font.otf")
+    font-size: 12px;
+}
+body {
+    font-family: font;
+    font-size: medium;
+    text-align: justify;
+}
+</style>
+ </head>
+ <body style="text-align:justify;">
+        Móveis notáveis combinam com música boa. Por isso, a DPOT – marca que reúne a maior coleção de mobiliário moderno e contemporâneo de autor do país – criou uma rádio digital com programação exclusiva, 100% dedicada à música e à cultura brasileiras, 24 horas por dia, 7 dias por semana.
+    </body>
+    </html>
+    ]]>
+    </string>
+    <string name="contact_text">
+<![CDATA[
+<html>
+ <head>
+ <style type="text/css">
+@font-face {
+    font-family: font;
+    src: url("file:///android_asset/fonts/font.otf")
+    font-size: 12px;
+}
+</style>
+ </head>
+ <body style="text-align:justify;">
+        <b>DPOT Gabriel</b>
+        <br><br>
+		Al Gabriel Monteiro da Silva, 479<br>
+		01441-000 Jardim Paulistano | São Paulo - SP <br>
+		T.:+55 11 3082-9513  |  3063-0113<br>
+		dpotgabriel@dpot.com.br<br><br>
+		
+		<b>DPOT D&D</b>
+        <br><br>
+		Shopping D&D, piso térreo<br>
+		Avenida das Nações Unidas, 12.551 - Loja 232 <br>
+		04578-903 Brooklin Novo | São Paulo - SP<br>
+		t.: +55 11 3043-9159  |  3043-9087<br>
+		dpotded@dpot.com.br<br>
+		 </body>
+    </html>
+        
+    ]]>
+    </string>
+    <string name="autostart_true_or_false">false</string>
+
+</resources>

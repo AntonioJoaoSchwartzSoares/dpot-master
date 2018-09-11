@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\ANTONIOJOAOSchwartz\\Documents\\Android\\backup\\Radio Dpot\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 72,
+                        "endOffset": 124
+                    }
+                }
+            }
+        ]
+    }
+]

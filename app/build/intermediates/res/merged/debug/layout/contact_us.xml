@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_weight="2"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="245sp"
+            android:layout_height="50sp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/header" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal" >
+
+                    <ImageView
+                        android:id="@+id/radio_image"
+                        android:layout_width="15dp"
+                        android:layout_height="12dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginTop="15dp"
+                        android:gravity="top"
+                        android:src="@drawable/play_image" />
+
+                    <TextView
+                        android:id="@+id/mainRadioLocation"
+                        android:layout_width="230sp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="15dp"
+                        android:layout_weight="1"
+                        android:ellipsize="marquee"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:gravity="center_horizontal|top"
+                        android:marqueeRepeatLimit="marquee_forever"
+                        android:paddingLeft="2dp"
+                        android:scrollHorizontally="true"
+                        android:singleLine="true"
+                        android:text="Songs title - Artist name"
+                        android:textColor="@android:color/black"
+                        android:textSize="13dp" />
+                </LinearLayout>
+
+               
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="245dp"
+            android:layout_height="180dp"
+            android:layout_gravity="center_horizontal"
+            
+            android:src="@drawable/lady_image" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="7" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <WebView
+                android:id="@+id/webview"
+                android:layout_width="245sp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Contact Text"
+                android:textColor="@android:color/black"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center"
+        android:layout_marginBottom="15dp"
+        android:layout_weight="1"
+        android:gravity="center|bottom"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/radio"
+                android:layout_width="50dp"
+                android:layout_height="53dp"
+                android:background="@drawable/radio"
+                android:onClick="radio" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/about"
+                android:layout_width="80dp"
+                android:layout_height="25dp"
+                android:background="@drawable/aboutus"
+                android:onClick="aboutus" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/contact"
+                android:layout_width="50dp"
+                android:layout_height="30dp"
+                android:background="@drawable/contactus" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
