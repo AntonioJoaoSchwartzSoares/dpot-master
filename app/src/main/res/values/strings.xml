@@ -7,7 +7,8 @@
     <string name="connection_error_dialog_title">Connection Error</string>
     <string name="radio_offline">The radio is offline.</string>
     <string name="resume">Tap to resume.</string>
-    <string name="connection_error_dialog_message">No Internet connection. Please check your connection and try again.</string>
+    <!-- string name="connection_error_dialog_message">No Internet connection. Please check your connection and try again.</string -->
+    <string name="connection_error_dialog_message">Sem conexão com a internet. Por favor cheque sua conexão e tente novamente.</string>
     <string name="connection_error_dialog_button">Retry</string>
     <string name="welcome_small">Song title - Artist name</string>
     <string name="radio_name">Radio Dpot</string>
