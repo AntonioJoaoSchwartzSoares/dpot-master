@@ -194,7 +194,7 @@
             android:visibility="invisible" />
         </LinearLayout>
 
-        <LinearLayout
+        <!-- LinearLayout
             android:id="@+id/stopLayout"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -224,7 +224,7 @@
                 android:textColor="#ffffff"
                 android:textSize="10dp" 
             android:visibility="invisible"/>
-        </LinearLayout>
+        </LinearLayout -->
     </RelativeLayout>
 
 </FrameLayout>
