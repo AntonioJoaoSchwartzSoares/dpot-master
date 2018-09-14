@@ -400,8 +400,8 @@ public class MainActivity extends FragmentActivity {
 			radioListLocation = (TextView) findViewById(R.id.mainRadioLocation);
 			pauseTextLocation = (TextView) findViewById(R.id.pause);
 			pauseTextLocation.setTypeface(this.fontRegular);
-			stopText = (TextView) findViewById(R.id.stoptext);
-			stopText.setTypeface(this.fontRegular);
+			//stopText = (TextView) findViewById(R.id.stoptext);
+			//stopText.setTypeface(this.fontRegular);
 			if (title.length() == 0) {
 				MainScreen.setRadioListName(getResources().getString(
 						R.string.welcome_small));
