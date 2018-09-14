@@ -124,7 +124,7 @@ public class MusicPlayer {
                             isWorking = false;
                         }
                     } catch (Exception e) {
-                        // TODO: handle exception
+                        e.getMessage();
                     }
 
                 }
@@ -146,6 +146,7 @@ public class MusicPlayer {
                     }
                 });
             } catch (Throwable t) {
+                t.getMessage();
             }
             return null;
         }
