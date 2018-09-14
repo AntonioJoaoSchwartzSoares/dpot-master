@@ -68,7 +68,7 @@ public class MainScreen extends Fragment {
             }
         });
         
-        stopbtn  = (ImageView) android.findViewById(R.id.stopImage);
+      /*  stopbtn  = (ImageView) android.findViewById(R.id.stopImage);
         stopbtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -82,7 +82,7 @@ public class MainScreen extends Fragment {
                 NotificationPanel.notificationCancel();
                 MainActivity.setExit(true);
                      }
-        });
+        });*/
         if (MusicPlayer.isStarted()) {
             radioListLocation.setText(getString(R.string.radio_name));
         }
