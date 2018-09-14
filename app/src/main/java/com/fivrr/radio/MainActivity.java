@@ -6,31 +6,41 @@ import android.app.Dialog;
 import android.app.Notification;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
+
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.ServiceConnection;
+
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.ColorDrawable;
+
 import android.media.AudioManager;
+
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
+
 import android.os.Bundle;
 import android.os.IBinder;
+
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
+
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
+
 import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.Window;
+
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+
 import android.widget.Button;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
