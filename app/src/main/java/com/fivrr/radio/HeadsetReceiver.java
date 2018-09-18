@@ -9,12 +9,12 @@ import com.dpot.radio.R;
 
 
 public class HeadsetReceiver extends BroadcastReceiver {
-   
+
     private ToastCreator toastCreator;
     private boolean notRunWhenStart = true;
 
     public HeadsetReceiver(Context context) {
-       
+
         this.toastCreator = new ToastCreator(context);
     }
 
@@ -30,7 +30,7 @@ public class HeadsetReceiver extends BroadcastReceiver {
                         toastCreator.show(R.drawable.volume_muted_light, "Headset unplugged");
                         try {
 
-                            MusicPlayer.stopMediaPlayer();
+                            //MusicPlayer.stopMediaPlayer();
                         } catch (Exception e) {
                             e.printStackTrace();
                         }
@@ -38,10 +38,10 @@ public class HeadsetReceiver extends BroadcastReceiver {
                     case 1:
                         toastCreator.show(R.drawable.headphones, "Headset plugged");
                         try {
-                            if(MusicPlayer.isWorking()){
-                                RadioList.nextOrPreviousRadioStation(1, MainActivity.getRadioListLocation(), MainActivity.getRadioListName());
-                                RadioList.nextOrPreviousRadioStation(0, MainActivity.getRadioListLocation(), MainActivity.getRadioListName());
-                            }
+                           // if(MusicPlayer.isWorking()){
+                           //     RadioList.nextOrPreviousRadioStation(1, MainActivity.getRadioListLocation(), MainActivity.getRadioListName());
+                           //     RadioList.nextOrPreviousRadioStation(0, MainActivity.getRadioListLocation(), MainActivity.getRadioListName());
+                            //}
                         } catch (Exception e) {
                             e.printStackTrace();
                         }

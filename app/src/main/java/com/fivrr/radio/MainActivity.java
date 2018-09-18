@@ -192,11 +192,9 @@ public class MainActivity extends FragmentActivity {
 				pauseTextLocation.setText("Pause");
 				MainScreen.setPauseImage();
 				title = location;
-				RadioList.nextOrPreviousRadioStation(1, radioListLocation,
-						radioListName);
+				RadioList.nextOrPreviousRadioStation(1, radioListLocation, radioListName);
 				if (!MusicPlayer.isStarted()) {
-					RadioList.nextOrPreviousRadioStation(0, radioListLocation,
-							radioListName);
+					RadioList.nextOrPreviousRadioStation(0, radioListLocation, radioListName);
 				}
 				first = false;
 			} else {
@@ -209,8 +207,7 @@ public class MainActivity extends FragmentActivity {
 					try {
 						pauseTextLocation.setText("Pause");
 						MainScreen.setPauseImage();
-						RadioList.nextOrPreviousRadioStation(0,
-								radioListLocation, radioListName);
+						RadioList.nextOrPreviousRadioStation(0, radioListLocation, radioListName);
 					} catch (Exception e) {
 						e.printStackTrace();
 					}
