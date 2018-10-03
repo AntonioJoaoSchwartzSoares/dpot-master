@@ -26,7 +26,7 @@
 @font-face {
     font-family: font;
     src: url("file:///android_asset/fonts/font.otf")
-    font-size: 12px;
+    font-size: 10px;
 }
 body {
     font-family: font;
@@ -36,7 +36,7 @@ body {
 </style>
  </head>
  <body style="text-align:justify;">
-        Móveis notáveis combinam com música boa. Por isso, a DPOT – marca que reúne a maior coleção de mobiliário moderno e contemporâneo de autor do país – criou uma rádio digital com programação exclusiva, 100% dedicada à música e à cultura brasileiras, 24 horas por dia, 7 dias por semana.
+        Móveis notáveis combinam com música boa. Por isso, a <b>dpot</b> – marca que reúne a maior coleção de mobiliário moderno e contemporâneo de autor do país – criou uma rádio digital com programação exclusiva, 100% dedicada à música e à cultura brasileiras, 24 horas por dia, 7 dias por semana.
     </body>
     </html>
     ]]>
