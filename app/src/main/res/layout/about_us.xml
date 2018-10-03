@@ -91,22 +91,22 @@
         </LinearLayout>
 
         <ImageView
-            android:layout_width="245dp"
+            android:layout_width="252dp"
             android:layout_height="180dp"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="3dp"
-   			android:src="@drawable/lady_image" />
+            android:src="@drawable/lady_image" />
 
         <ScrollView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="265dp"
+            android:layout_height="180dp"
             android:layout_gravity="center_horizontal"
             android:layout_weight="3"
             android:fillViewport="false">
 
             <WebView
                 android:id="@+id/webview"
-                android:layout_width="245dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginTop="2dp"
@@ -147,7 +147,7 @@
             <Button
                 android:id="@+id/about"
                 android:layout_width="80dp"
-                android:layout_height="25dp"
+                android:layout_height="22dp"
                 android:background="@drawable/aboutus" />
         </LinearLayout>
 

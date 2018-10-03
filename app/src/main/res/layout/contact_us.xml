@@ -139,7 +139,7 @@
             <Button
                 android:id="@+id/about"
                 android:layout_width="80dp"
-                android:layout_height="25dp"
+                android:layout_height="22dp"
                 android:background="@drawable/aboutus"
                 android:onClick="aboutus" />
         </LinearLayout>

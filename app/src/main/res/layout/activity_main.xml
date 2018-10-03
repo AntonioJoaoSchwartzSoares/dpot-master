@@ -28,10 +28,11 @@
             layout="@layout/viewpager_layout" />
 
         <include
+            layout="@layout/main_last"
             android:layout_width="match_parent"
-            android:layout_height="0px"
+            android:layout_height="6dp"
             android:layout_weight="105.56"
-            layout="@layout/main_last" />
+            tools:layout_weight="100" />
 
     </LinearLayout>
 
