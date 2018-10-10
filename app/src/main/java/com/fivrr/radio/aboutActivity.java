@@ -56,7 +56,7 @@ public class aboutActivity extends Activity {
 
 		String pish = "<html><head><style type=\"text/css\">@font-face {font-family: MyFont; src: url(\"file:///android_asset/fonts/font.otf\")}body {font-family: \'MyFont\'; font-size: 12px;text-align: justify;}</style></head>"
 				+ "<body>"
-				+ "Móveis notáveis combinam com música boa. Por isso, a <b>dpot</b> - marca que reúne a maior coleçao de mobiliário moderno e contemporâneo de autor do país - criou uma rádio digital com programação exclusiva, 100% dedicada à música e à cultura brasileiras, 24 horas por dia, 7 dias por semana.";
+				+ "Móveis notáveis combinam com música boa. Por isso, a <b>dpot</b> - marca que reúne a maior coleção de mobiliário moderno e contemporâneo de autor do país - criou uma rádio digital com programação exclusiva, 100% dedicada à música e à cultura brasileiras, 24 horas por dia, 7 dias por semana.";
 		String pas = "</body></html>";
 
 		String myHtmlString = pish + pas;
