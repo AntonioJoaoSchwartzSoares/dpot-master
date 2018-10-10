@@ -54,7 +54,7 @@ public class ContactActivity extends Activity {
 		mWebView = (WebView) findViewById(R.id.webview);
 		String pish = "<html><head><style type=\"text/css\">@font-face {font-family: MyFont;src: url(\"file:///android_asset/fonts/font.otf\")}body {font-family: MyFont;font-size: 12px;text-align: justify;}</style></head>"
 				+ "<body>"
-				+ "<b>DPOT Gabriel</b>"
+				+ "<b>dpot Gabriel</b>"
 				+ "<br>"
 				+ "Al Gabriel Monteiro da Silva, 479<br>"
 				+ "01441-000 Jardim Paulistano|São Paulo-SP <br>"
@@ -62,7 +62,7 @@ public class ContactActivity extends Activity {
 				+ "dpotgabriel@dpot.com.br";
 		
 		String pish1 = 
-				 "<b>DPOT D&D</b>"
+				 "<b>dpot D&D</b>"
 				+ "<br>"
 				+ "Shopping D&D, piso térreo<br>"
 				+ "Avenida das Nações Unidas, 12.551 - Loja 232 <br>"
